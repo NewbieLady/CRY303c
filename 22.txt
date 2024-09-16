@@ -1,0 +1,7 @@
+Which of the followings are true about message authentication?|Symmetric encryption/decryption can provide message authentication.$Message authentication code (MAC) is based on symmetric keys.
+Which of the following terms is not used interchangeably with mesage authentication code (MAC)?|Digital signature
+Which of the following is not a reason to use/prefer MAC over symmetric encryption for message authentication?|Confidentiality protection
+A MAC, such as that based on DAA/DES, uses a 56-bit key and a 64-bit MAC code/tag. How many computations would it require for an attacker to brute-force the MAC on average?|2^55
+A MAC, such as that based on DAA/DES, uses a 56-bit key and a 64-bit MAC code/tag. However, now, the key gets updated very frequently; every MAC code that gets produced uses a different key. How many computations would it require for an attacker to brute-force the MAC on average?|2^63
+Which of the followings is not a security requirement for MAC?|Independence across bits
+How is CMAC different from DAA algorithm? Select all that applies.|CMAC additionally uses a derived key (derived from the original key) when generating the MAC code.$CMAC have options for the block ciphers.$CMAC provides longer MAC code.

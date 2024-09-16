@@ -1,0 +1,5 @@
+What is the value of the discrete logarithm of 3 base 2 mod 5?|3
+What is the value of the discrete logarithm of 4 base 5 mod 7?|2
+Identify the primitive roots of the prime number 3. Select all that applies.|2
+Identify the primitive roots of the prime number 7. Select all that applies.|5$3
+Which of the following statements are true?|Given a large modulus n, the discrete logarithm problem is computationally difficult.$Using the primitive roots of a prime modulus p yields the maximum p-1 possible outcome values for the discrete logarithm, which is desired for cryptography.

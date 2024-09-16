@@ -1,0 +1,4 @@
+True or False: DES is an ideal block cipher.|False
+True or False: DES displaying Avalanche Effect is a limitation because it describes that an error occurring in one of the rounds propagate through the rest of the rounds.|False
+An attacker is equipped with a computer that performs 10 trillion (10^13) DES decryptions per second, what is the average time required, in hours, for a brute force attacker to break DES?|1
+Which of the followings are true about Feistel Cipher? Select all that applies.|Feistel Cipher requires smaller key than ideal block cipher.$Feistel Cipher is a product cipher.$Feistel Cipher processes the data in halves.

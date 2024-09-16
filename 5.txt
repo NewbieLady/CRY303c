@@ -1,0 +1,3 @@
+Let's use a modified Caesar Cipher where c = (p+2x) mod 26, where c and p are the ciphertext and the plaintext, respectively, and x is the key. How many distinct keys, producing distinct encryption/decryption transformations, are there now?|13
+For c = (p+2x) mod 26, where c, p, and x are the ciphertext, the plaintext, and the key, respectively, what is the corresponding decryption? Select all that works.|p = (c-2x) mod 26$p = (c+26-2x) mod 26
+Let's now use a modified Caesar Cipher where c = (p+3x) mod 26, where c and p are the ciphertext and the plaintext, respectively, and x is the key. How many distinct keys, producing distinct encryption/decryption transformations, are there now?|26

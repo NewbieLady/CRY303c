@@ -1,0 +1,7 @@
+Which of the following statements are false for hash functions?|Given an input, a hash function can produce multiple outputs
+Which of the following terms are used to describe the output of the hash function?|Hash value$Fingerprint$Digest
+Which of the followings states that for any given input, it is computationally infeasible to find another input that produces the same hash as the given input|Weak collision resistance
+Which of the following statements are true for cryptographic hash function requirements?|Avalanche effect is desirable property of hash function because it prevents attacks that compare the outputs to infer the relations between the corresponding inputs.$Any hash function that is strong collision resistant is also weak collision resistant.
+When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break strong collision resistance?|16
+When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break weak collision resistance?|128
+When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break preimage resistance?|128

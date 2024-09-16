@@ -1,0 +1,4 @@
+The Rail Fence cipher uses 4 rows/rails (the example in the lecture used 3). What is the ciphertext (the outcome of the rail fence cipher) for MEETMELATER?|MLEEAEMTRTE
+A Permutation Cipher has a key length of 5, e.g., one key can be [3 2 1 4 5]. How many possible keys are there?|120
+The plaintext MEETMELATER gets processed by a Permutation Cipher (with a key of [2 3 5 4 1] and no padding with extra letters. What is the corresponding ciphertext?|MEMERELTTEA
+The plaintext MEETMELATER gets processed by a Permutation Cipher (with a key of [2 3 5 4 1] and with padding using the letter "z" (Alice and Bob agree to use the letter z for padding). What is the corresponding ciphertext?|MEZMERELZTTZEAZ

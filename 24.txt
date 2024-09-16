@@ -1,0 +1,2 @@
+Cryptocurrency, e.g., bitcoin, uses Merkle tree for efficient verification. Which of the following best describes the data (the input to the hash at the lowest-level of the tree hierarchy) in cryptocurrency?|Cryptocurrency transaction
+Which of the following does the TESLA broadcasting authentication scheme use? Select all that applies.|Cryptographic hash function$Hash chain

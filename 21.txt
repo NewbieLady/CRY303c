@@ -1,0 +1,8 @@
+In hash chain, H^n indicates the output of the n-th hash. Suppose H^3 has an error and its value changed. Which of the values would get affected and change?|H^3$H^4$H^5
+The server, acting as the verifier, has the value H^n stored for the verification. What is the one-time password that will be used by the user?|H^{n-1}
+For a hash tree that covers 32 data blocks, how many hash checks do you need to perform to detect the error? Assume that error occurred on only one block.|1
+For a hash tree that covers 32 data blocks, how many hash checks do you need to perform to detect the error? Assume that error occurred on two distinct blocks.|1
+For a hash tree that covers 16 data blocks, how many hash checks do you need to perform to localize the error? Assume that error occurred on only one block.|9
+For a hash tree that covers 128 data blocks, how many hash checks do you need to perform to localize the error? Assume that error occurred on only one block.|15
+Now the error occurred on two distinct blocks. For a hash tree that covers 16 data blocks, how many hash checks do you need to perform to localize the error?|15
+Which of the followings are true for hash tree (Merkle tree)? The tree is binary where there are two child nodes for each parent node.|To construct the hash tree, the hash inputs are twice as long as the hash outputs.$The computational complexity grows linearly as the number of data blocks increases exponentially.
